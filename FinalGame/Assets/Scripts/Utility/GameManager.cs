@@ -227,6 +227,16 @@ public class GameManager : MonoBehaviour
             uiManager.GoToPage(gameOverPageIndex);
         }
     }
+    public int DialoguePageIndex = 0;
+        public void Dialogue()
+    {
+        if (uiManager != null)
+        {
+            uiManager.allowPause = false;
+            uiManager.GoToPage(DialoguePageIndex);
+
+        }     
+    }
 
     /// <summary>
     /// Description:
