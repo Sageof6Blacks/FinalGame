@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Linq;
@@ -321,5 +322,10 @@ public class GameManager : MonoBehaviour
             instance.highScore = 0;
         }
         UpdateUIElements();
+    }
+
+    internal static void LoadScene(string v)
+    {
+        throw new NotImplementedException();
     }
 }
