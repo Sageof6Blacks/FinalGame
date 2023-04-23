@@ -5,13 +5,30 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+<<<<<<< Updated upstream
   - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
     path: Assets/_Scenes/2DPlatformer.unity
+=======
+  - enabled: 1
+    path: Assets/_Scenes/MainMenuFinal.unity
+    guid: d50fc8ddc9c8142a5bf48495455949f5
+  - enabled: 1
+    path: Assets/_Scenes/TutorialLevel.unity
+    guid: 9819d86d0c26d4ddb8ce114c0797eec9
+  - enabled: 1
+    path: Assets/_Scenes/Level1.unity
+>>>>>>> Stashed changes
     guid: 356224c70a174ff41aaa343f4b7877a4
   - enabled: 1
     path: Assets/_Scenes/2DPlatformer_Level2.unity
     guid: fbba97b2f63f5cf49a97eb34fe9f2d05
+<<<<<<< Updated upstream
+=======
+  - enabled: 1
+    path: Assets/_Scenes/MainMenuPostLevel2.unity
+    guid: f138b826441817345a76001119306ba8
+>>>>>>> Stashed changes
   m_configObjects: {}
