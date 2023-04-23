@@ -5,7 +5,7 @@ using UnityEngine;
 public class FinalKey : MonoBehaviour
 {
     public GameObject door;
-
+    public GameObject Gate;
 
     private void OnTriggerEnter2D(Collider2D col) {
         if (col.CompareTag("Player"))
@@ -15,6 +15,8 @@ public class FinalKey : MonoBehaviour
             door.GetComponent<BoxCollider2D>().enabled = false;
 
             this.gameObject.SetActive(false);
+
+            
         }
     }
 }
