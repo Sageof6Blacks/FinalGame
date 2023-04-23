@@ -21,11 +21,7 @@ MonoBehaviour:
   m_ShowMode: 4
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
   m_Title: Hierarchy
-=======
-  m_Title: Inspector
->>>>>>> parent of 524edc8 (Fixed tutorial level, added menu for after level 2)
 =======
   m_Title: Inspector
 >>>>>>> parent of 524edc8 (Fixed tutorial level, added menu for after level 2)
@@ -134,11 +130,7 @@ MonoBehaviour:
   vertical: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
   controlID: 197
-=======
-  controlID: 26
->>>>>>> parent of 524edc8 (Fixed tutorial level, added menu for after level 2)
 =======
   controlID: 26
 >>>>>>> parent of 524edc8 (Fixed tutorial level, added menu for after level 2)
@@ -171,11 +163,7 @@ MonoBehaviour:
   vertical: 1
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
   controlID: 241
-=======
-  controlID: 32
->>>>>>> parent of 524edc8 (Fixed tutorial level, added menu for after level 2)
 =======
   controlID: 32
 >>>>>>> parent of 524edc8 (Fixed tutorial level, added menu for after level 2)
@@ -263,11 +251,7 @@ MonoBehaviour:
   vertical: 1
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
   controlID: 145
-=======
-  controlID: 48
->>>>>>> parent of 524edc8 (Fixed tutorial level, added menu for after level 2)
 =======
   controlID: 48
 >>>>>>> parent of 524edc8 (Fixed tutorial level, added menu for after level 2)
@@ -293,13 +277,8 @@ MonoBehaviour:
     y: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
     width: 581.60004
     height: 249.6
-=======
-    width: 549
-    height: 235
->>>>>>> parent of 524edc8 (Fixed tutorial level, added menu for after level 2)
 =======
     width: 549
     height: 235
@@ -716,13 +695,10 @@ MonoBehaviour:
   m_Position:
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
     m_Target: {x: 26.87486, y: 3.9673212, z: 0.046942838}
     speed: 2
     m_Value: {x: 26.87486, y: 3.9673212, z: 0.046942838}
 =======
-=======
->>>>>>> parent of 524edc8 (Fixed tutorial level, added menu for after level 2)
 =======
 >>>>>>> parent of 524edc8 (Fixed tutorial level, added menu for after level 2)
 <<<<<<< Updated upstream
@@ -735,9 +711,6 @@ MonoBehaviour:
     m_Value: {x: 84.01165, y: -1.4066215, z: 0.0036142766}
 >>>>>>> Stashed changes
 <<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> parent of 524edc8 (Fixed tutorial level, added menu for after level 2)
-=======
 >>>>>>> parent of 524edc8 (Fixed tutorial level, added menu for after level 2)
 =======
 >>>>>>> parent of 524edc8 (Fixed tutorial level, added menu for after level 2)
@@ -793,13 +766,10 @@ MonoBehaviour:
   m_Size:
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
     m_Target: 21.170904
     speed: 2
     m_Value: 21.170904
 =======
-=======
->>>>>>> parent of 524edc8 (Fixed tutorial level, added menu for after level 2)
 =======
 >>>>>>> parent of 524edc8 (Fixed tutorial level, added menu for after level 2)
 <<<<<<< Updated upstream
@@ -812,9 +782,6 @@ MonoBehaviour:
     m_Value: 0.71414286
 >>>>>>> Stashed changes
 <<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> parent of 524edc8 (Fixed tutorial level, added menu for after level 2)
-=======
 >>>>>>> parent of 524edc8 (Fixed tutorial level, added menu for after level 2)
 =======
 >>>>>>> parent of 524edc8 (Fixed tutorial level, added menu for after level 2)
@@ -837,11 +804,7 @@ MonoBehaviour:
     m_OcclusionCulling: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
   m_LastSceneViewRotation: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
-=======
-  m_LastSceneViewRotation: {x: -0.15767848, y: 0.67719764, z: -0.15201029, w: -0.7024494}
->>>>>>> parent of 524edc8 (Fixed tutorial level, added menu for after level 2)
 =======
   m_LastSceneViewRotation: {x: -0.15767848, y: 0.67719764, z: -0.15201029, w: -0.7024494}
 >>>>>>> parent of 524edc8 (Fixed tutorial level, added menu for after level 2)
@@ -1009,11 +972,7 @@ MonoBehaviour:
     m_IsLocked: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
   m_LastSelectedObjectID: 39214
-=======
-  m_LastSelectedObjectID: -38944
->>>>>>> parent of 524edc8 (Fixed tutorial level, added menu for after level 2)
 =======
   m_LastSelectedObjectID: -38944
 >>>>>>> parent of 524edc8 (Fixed tutorial level, added menu for after level 2)
@@ -1053,7 +1012,6 @@ MonoBehaviour:
     m_TreeViewState:
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 16f0ffff
       m_LastClickedID: -4074
@@ -1061,16 +1019,11 @@ MonoBehaviour:
 =======
 =======
 >>>>>>> parent of 524edc8 (Fixed tutorial level, added menu for after level 2)
-=======
->>>>>>> parent of 524edc8 (Fixed tutorial level, added menu for after level 2)
       scrollPos: {x: 0, y: 575}
       m_SelectedIDs: 
       m_LastClickedID: 0
       m_ExpandedIDs: be59ffff0afbffff24d40000
 <<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> parent of 524edc8 (Fixed tutorial level, added menu for after level 2)
-=======
 >>>>>>> parent of 524edc8 (Fixed tutorial level, added menu for after level 2)
 =======
 >>>>>>> parent of 524edc8 (Fixed tutorial level, added menu for after level 2)
@@ -1119,7 +1072,6 @@ MonoBehaviour:
     serializedVersion: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
     x: -1016
     y: 174.6
     width: 547
@@ -1127,16 +1079,11 @@ MonoBehaviour:
 =======
 =======
 >>>>>>> parent of 524edc8 (Fixed tutorial level, added menu for after level 2)
-=======
->>>>>>> parent of 524edc8 (Fixed tutorial level, added menu for after level 2)
     x: 964
     y: 73.6
     width: 583.6
     height: 232.6
 <<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> parent of 524edc8 (Fixed tutorial level, added menu for after level 2)
-=======
 >>>>>>> parent of 524edc8 (Fixed tutorial level, added menu for after level 2)
 =======
 >>>>>>> parent of 524edc8 (Fixed tutorial level, added menu for after level 2)
@@ -1210,11 +1157,7 @@ MonoBehaviour:
     m_LastClickedID: 25184
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
     m_ExpandedIDs: 00000000fa7400003e760000c0760000c2760000c4760000c6760000c8760000ca760000cc760000ce760000d0760000d2760000d4760000d6760000da760000dc760000de760000e0760000e2760000
-=======
-    m_ExpandedIDs: 000000007672000020740000227400002474000026740000287400002a7400002c7400002e74000030740000327400003474000036740000387400003a7400003c7400003e740000407400004274000044740000
->>>>>>> parent of 524edc8 (Fixed tutorial level, added menu for after level 2)
 =======
     m_ExpandedIDs: 000000007672000020740000227400002474000026740000287400002a7400002c7400002e74000030740000327400003474000036740000387400003a7400003c7400003e740000407400004274000044740000
 >>>>>>> parent of 524edc8 (Fixed tutorial level, added menu for after level 2)
@@ -1250,11 +1193,7 @@ MonoBehaviour:
     m_LastClickedID: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
     m_ExpandedIDs: ffffffff00000000fa7400003e760000c0760000c2760000c4760000c6760000c8760000ca760000cc760000ce760000d0760000d2760000d4760000d6760000d8760000da760000dc760000de760000e0760000e2760000
-=======
-    m_ExpandedIDs: b468ffffffffffff0000000076720000207400002274000024740000287400002a7400002c7400002e74000030740000327400003474000036740000387400003a7400003c7400003e74000042740000227600003c7600009a820000808600009a8b000000ce000002ce0000
->>>>>>> parent of 524edc8 (Fixed tutorial level, added menu for after level 2)
 =======
     m_ExpandedIDs: b468ffffffffffff0000000076720000207400002274000024740000287400002a7400002c7400002e74000030740000327400003474000036740000387400003a7400003c7400003e74000042740000227600003c7600009a820000808600009a8b000000ce000002ce0000
 >>>>>>> parent of 524edc8 (Fixed tutorial level, added menu for after level 2)
