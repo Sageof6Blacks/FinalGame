@@ -146,6 +146,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7df2c8dacce14db42b34c65fd8ea4ff6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pickUpEffect: {fileID: 5389934954605755028, guid: 7f2a5b8e51085f64d90be0225dfa562b, type: 3}
+  pickUpEffect: {fileID: 0}
   uiManager: {fileID: 0}
   DialoguePageIndex: 5
